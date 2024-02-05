@@ -5,7 +5,9 @@ This query uses multiple joins to connect a series of separate tables by their P
 
 I ordered the resulting table by Country and Order Date in descending order to make it easier to read. 
 
+
 ![1](https://github.com/Tkurylo/sql_cert_practice-/assets/125916229/6ca970e9-9dfa-48f5-ad85-600d6a07fc91)
+
 
 
 In this query I switched the Left join, as it was unnecessary. Afterwards, I decided I wanted to filter the results to get a specific set of data. To do so I included a WHERE clause with OR logical operators to restrict the results to those suppliers in three different countries. I then used an AND operator to include the additional filter with a binary value of 1 in the ‘isDiscontinued’ column to display only discontinued products. Finally, I used ORDER BY to order the results by OrderDate.
