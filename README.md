@@ -19,3 +19,11 @@ In this query I used some aggregate functions to get some basic stats on the Uni
 
 
 ![3](https://github.com/Tkurylo/sql_cert_practice-/assets/125916229/eebb5f68-1ddc-4ffc-92dc-a36da7a93562)
+
+
+Here I wrote a similar query to get more detailed stats on the UnitPrice including the SUM aggregate function to get the total number of items purchased. I included culture codes to get the information in proper units, and finally used ORDER BY to get the result arranged by OrderId and ProductId. 
+
+ 
+![4](https://github.com/Tkurylo/sql_cert_practice-/assets/125916229/68cbc28a-29de-4801-bdb6-75cd1bec4211)
+
+
