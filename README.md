@@ -16,3 +16,6 @@ In this query I switched the Left join, as it was unnecessary. Afterwards, I dec
 
 
 In this query I used some aggregate functions to get some basic stats on the UnitPrice and assigned them aliases, while joining the Supplier table to get the CompanyName. 
+
+
+![3](https://github.com/Tkurylo/sql_cert_practice-/assets/125916229/eebb5f68-1ddc-4ffc-92dc-a36da7a93562)
